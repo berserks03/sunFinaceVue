@@ -13,8 +13,8 @@
     >
 
     <Toggle
-      enabled="C"
-      disabled="F"
+      enabled="C°"
+      disabled="F°"
       :default="units"
       @set-val="setUnits"
     />
